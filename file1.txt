@@ -8,3 +8,4 @@ in eclipse - here ---
 changed in eclipse
 updated in remote
 in eclipse - in remote - modified
+changed
