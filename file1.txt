@@ -10,4 +10,4 @@ updated in remote
 in eclipse - in remote - modified
 changed
 
-test pull
+test pull -- push
