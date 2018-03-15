@@ -11,4 +11,4 @@ in eclipse - in remote - modified
 changed
 
 test pull -- push
-test pull --mod
+test pull --mod -- web
