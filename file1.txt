@@ -14,4 +14,4 @@ test pull -- push
 test pull --mod -- added
 test pull --mod -- web
 test pull
-web -- in web --pull
+web -- in web --pull- in web
