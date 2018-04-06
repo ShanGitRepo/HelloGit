@@ -2,8 +2,4 @@ in eclipse
 pull
 web -- in web --pull- in web
 eclipse
-web---web--ec2
-web---web--web--ec2
-web---web--web--web
-ec2etszsf--ec2
-ec2etszsf --web--ec2--web
+
