@@ -1,5 +1,5 @@
 in eclipse
 pull--ec2
-web -- in web --pull- in web
-ec2--ec2--ec2--ec2
+web -- in web 
+
 
